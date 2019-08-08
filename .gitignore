@@ -1,0 +1,15 @@
+# Jetbrains IDE settings folder, such as Webstorm
+.idea/
+
+# Default Expo values
+node_modules/**/*
+.expo/
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+**/**/*.bs.js
+.bsb.lock
+lib
+.merlin
